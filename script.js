@@ -1,4 +1,4 @@
-// Name : Ahmed Adib AKash , Roll : 21180301004
+// Name : Ahmed Adib AKash , Roll : 42180301004
 
 // Declaring variables for the bird's movement speed and gravity
 let move_speed = 3, grativy = 0.5;
